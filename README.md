@@ -1,4 +1,4 @@
-# PrincessHomeComing
+# Princess Home Coming
 2d Platformer Game 
 
 ## GamePlay
